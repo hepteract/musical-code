@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "jsmidgen": "^0.1.5",
     "midi-node": "^0.1.13"
   }
 }
