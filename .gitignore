@@ -1,3 +1,6 @@
+# MIDI files
+.mid
+
 # Logs
 logs
 *.log
